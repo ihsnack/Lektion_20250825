@@ -70,4 +70,5 @@ null
 
 //var value = string.Empty;
 //int value2 = null;
+int value2 = 432423;
 
