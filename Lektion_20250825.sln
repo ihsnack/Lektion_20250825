@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainApp", "MainApp\MainApp.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainAppGit", "MainAppGit\MainAppGit.csproj", "{19EF2018-4B6B-4FB6-897C-5782F69955CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrayer_Listor", "Arrayer_Listor\Arrayer_Listor.csproj", "{BFA503FC-FAA8-4AE4-A173-ACAD195B97C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{19EF2018-4B6B-4FB6-897C-5782F69955CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19EF2018-4B6B-4FB6-897C-5782F69955CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19EF2018-4B6B-4FB6-897C-5782F69955CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFA503FC-FAA8-4AE4-A173-ACAD195B97C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA503FC-FAA8-4AE4-A173-ACAD195B97C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA503FC-FAA8-4AE4-A173-ACAD195B97C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA503FC-FAA8-4AE4-A173-ACAD195B97C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
